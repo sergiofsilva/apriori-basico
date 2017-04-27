@@ -1,2 +1,2 @@
 # apriori-basico
-Implementação básico do algoritmo apriori em python
+Modificação da implementaação do algoritmo apriori de Asaini: https://github.com/asaini/Apriori/blob/master/apriori.py
